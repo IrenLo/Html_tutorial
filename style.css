@@ -1,0 +1,14 @@
+h1 {
+    color: firebrick;
+    text-decoration-style: dashed
+}
+header {
+    display: block; 
+    width: 100%;
+    padding: 40px;
+    background: #CCCCCC
+}
+li {
+    display: inline-block;
+    text-decoration: none
+}
